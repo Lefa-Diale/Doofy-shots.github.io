@@ -983,8 +983,8 @@ footer {
     margin-top: 3rem;
   }
 
-  .swiper-slide {
-    border: 0;
+  .swiper-slide img {
+    filter: saturate(1);
   }
 
   .footer_head {
